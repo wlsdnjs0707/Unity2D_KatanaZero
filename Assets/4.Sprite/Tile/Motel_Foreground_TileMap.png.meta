@@ -1,0 +1,3696 @@
+fileFormatVersion: 2
+guid: 4e51be309e65ac94e9b8a3880d4e328f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4311770142407306276
+    second: Motel_Foreground_TileMap_0
+  - first:
+      213: -7125965423665596601
+    second: Motel_Foreground_TileMap_1
+  - first:
+      213: 1591303208049159958
+    second: Motel_Foreground_TileMap_2
+  - first:
+      213: 7583219363379005699
+    second: Motel_Foreground_TileMap_3
+  - first:
+      213: -5775092849609729259
+    second: Motel_Foreground_TileMap_4
+  - first:
+      213: 441756147091157326
+    second: Motel_Foreground_TileMap_5
+  - first:
+      213: 3074612557132292617
+    second: Motel_Foreground_TileMap_6
+  - first:
+      213: 7697114603949335250
+    second: Motel_Foreground_TileMap_7
+  - first:
+      213: -5872167368044311155
+    second: Motel_Foreground_TileMap_8
+  - first:
+      213: 7831770747542299473
+    second: Motel_Foreground_TileMap_9
+  - first:
+      213: 8983977058207074357
+    second: Motel_Foreground_TileMap_10
+  - first:
+      213: 3105041186297648138
+    second: Motel_Foreground_TileMap_11
+  - first:
+      213: -8671114238297901174
+    second: Motel_Foreground_TileMap_12
+  - first:
+      213: 6381106316095983569
+    second: Motel_Foreground_TileMap_13
+  - first:
+      213: 1120481294089752863
+    second: Motel_Foreground_TileMap_14
+  - first:
+      213: 4466427222256757225
+    second: Motel_Foreground_TileMap_15
+  - first:
+      213: 6027613406745356147
+    second: Motel_Foreground_TileMap_16
+  - first:
+      213: -6971016220433032149
+    second: Motel_Foreground_TileMap_17
+  - first:
+      213: 7548068018017046258
+    second: Motel_Foreground_TileMap_18
+  - first:
+      213: 1553635472525449016
+    second: Motel_Foreground_TileMap_19
+  - first:
+      213: 368352321371732804
+    second: Motel_Foreground_TileMap_20
+  - first:
+      213: 5493506221436043433
+    second: Motel_Foreground_TileMap_21
+  - first:
+      213: -6174344800275244305
+    second: Motel_Foreground_TileMap_22
+  - first:
+      213: 209713554842769604
+    second: Motel_Foreground_TileMap_23
+  - first:
+      213: -6181428757844440298
+    second: Motel_Foreground_TileMap_24
+  - first:
+      213: 1343257929376011338
+    second: Motel_Foreground_TileMap_25
+  - first:
+      213: 4866576333135601088
+    second: Motel_Foreground_TileMap_26
+  - first:
+      213: 5699627763635888550
+    second: Motel_Foreground_TileMap_27
+  - first:
+      213: -3045862967583361386
+    second: Motel_Foreground_TileMap_28
+  - first:
+      213: 8837346354996402544
+    second: Motel_Foreground_TileMap_29
+  - first:
+      213: -2268456523156142550
+    second: Motel_Foreground_TileMap_30
+  - first:
+      213: -5433408669759479318
+    second: Motel_Foreground_TileMap_31
+  - first:
+      213: -5819552647747474067
+    second: Motel_Foreground_TileMap_32
+  - first:
+      213: 4282866064879545136
+    second: Motel_Foreground_TileMap_33
+  - first:
+      213: 1992810613125746050
+    second: Motel_Foreground_TileMap_34
+  - first:
+      213: -1156208190811933161
+    second: Motel_Foreground_TileMap_35
+  - first:
+      213: 2175428909832392266
+    second: Motel_Foreground_TileMap_36
+  - first:
+      213: -7337393324745859836
+    second: Motel_Foreground_TileMap_37
+  - first:
+      213: 4101216275473781567
+    second: Motel_Foreground_TileMap_38
+  - first:
+      213: 533062516374048554
+    second: Motel_Foreground_TileMap_39
+  - first:
+      213: 3214491540030250770
+    second: Motel_Foreground_TileMap_40
+  - first:
+      213: -6800076102802617581
+    second: Motel_Foreground_TileMap_41
+  - first:
+      213: -5454046983168334806
+    second: Motel_Foreground_TileMap_42
+  - first:
+      213: 7985831929025588017
+    second: Motel_Foreground_TileMap_43
+  - first:
+      213: 3249554412479631532
+    second: Motel_Foreground_TileMap_44
+  - first:
+      213: -6887181665002872604
+    second: Motel_Foreground_TileMap_45
+  - first:
+      213: -5399636794988098009
+    second: Motel_Foreground_TileMap_46
+  - first:
+      213: 2845689138876902529
+    second: Motel_Foreground_TileMap_47
+  - first:
+      213: -7345722363556812228
+    second: Motel_Foreground_TileMap_48
+  - first:
+      213: 6338595252858919920
+    second: Motel_Foreground_TileMap_49
+  - first:
+      213: -7685457941844080931
+    second: Motel_Foreground_TileMap_50
+  - first:
+      213: -7289388162393193151
+    second: Motel_Foreground_TileMap_51
+  - first:
+      213: 2180300246068990753
+    second: Motel_Foreground_TileMap_52
+  - first:
+      213: 7473753295026139196
+    second: Motel_Foreground_TileMap_53
+  - first:
+      213: 2193434692993486173
+    second: Motel_Foreground_TileMap_54
+  - first:
+      213: -1044141697930776778
+    second: Motel_Foreground_TileMap_55
+  - first:
+      213: -6987272745325285333
+    second: Motel_Foreground_TileMap_56
+  - first:
+      213: 3176246217007371291
+    second: Motel_Foreground_TileMap_57
+  - first:
+      213: 8979741067171033784
+    second: Motel_Foreground_TileMap_58
+  - first:
+      213: -2530837800615111284
+    second: Motel_Foreground_TileMap_59
+  - first:
+      213: 7822618213945205680
+    second: Motel_Foreground_TileMap_60
+  - first:
+      213: -759745703567215894
+    second: Motel_Foreground_TileMap_61
+  - first:
+      213: 7845669158480605050
+    second: Motel_Foreground_TileMap_62
+  - first:
+      213: 5439777849779597812
+    second: Motel_Foreground_TileMap_63
+  - first:
+      213: 4951358018626776798
+    second: Motel_Foreground_TileMap_64
+  - first:
+      213: 7013555477208421059
+    second: Motel_Foreground_TileMap_65
+  - first:
+      213: 5952678497857944692
+    second: Motel_Foreground_TileMap_66
+  - first:
+      213: -4949640323134918464
+    second: Motel_Foreground_TileMap_67
+  - first:
+      213: 7226623918754320124
+    second: Motel_Foreground_TileMap_68
+  - first:
+      213: 6804533920797729473
+    second: Motel_Foreground_TileMap_69
+  - first:
+      213: 8661011080863490009
+    second: Motel_Foreground_TileMap_70
+  - first:
+      213: -8364602913294828938
+    second: Motel_Foreground_TileMap_71
+  - first:
+      213: 7816028850431833666
+    second: Motel_Foreground_TileMap_72
+  - first:
+      213: 6790185032762477758
+    second: Motel_Foreground_TileMap_73
+  - first:
+      213: 3898525616626384751
+    second: Motel_Foreground_TileMap_74
+  - first:
+      213: -5384366974203517954
+    second: Motel_Foreground_TileMap_75
+  - first:
+      213: -2815414112126728006
+    second: Motel_Foreground_TileMap_76
+  - first:
+      213: -9021514338581991592
+    second: Motel_Foreground_TileMap_77
+  - first:
+      213: -3275654158863270331
+    second: Motel_Foreground_TileMap_78
+  - first:
+      213: -8135968334192538724
+    second: Motel_Foreground_TileMap_79
+  - first:
+      213: -369667936355740967
+    second: Motel_Foreground_TileMap_80
+  - first:
+      213: -4845666178464232018
+    second: Motel_Foreground_TileMap_81
+  - first:
+      213: 1307475272296276878
+    second: Motel_Foreground_TileMap_82
+  - first:
+      213: -1306842396983715838
+    second: Motel_Foreground_TileMap_83
+  - first:
+      213: -5019218892230495848
+    second: Motel_Foreground_TileMap_84
+  - first:
+      213: -7592925843707176695
+    second: Motel_Foreground_TileMap_85
+  - first:
+      213: 373592443406394504
+    second: Motel_Foreground_TileMap_86
+  - first:
+      213: -5785059175141938035
+    second: Motel_Foreground_TileMap_87
+  - first:
+      213: -7292817708059403967
+    second: Motel_Foreground_TileMap_88
+  - first:
+      213: -3314868070623048801
+    second: Motel_Foreground_TileMap_89
+  - first:
+      213: 3629354995184590588
+    second: Motel_Foreground_TileMap_90
+  - first:
+      213: 4816611210133128447
+    second: Motel_Foreground_TileMap_91
+  - first:
+      213: -2540227326632805816
+    second: Motel_Foreground_TileMap_92
+  - first:
+      213: 2374859453805795691
+    second: Motel_Foreground_TileMap_93
+  - first:
+      213: -2776116382376550519
+    second: Motel_Foreground_TileMap_94
+  - first:
+      213: 145074135993145980
+    second: Motel_Foreground_TileMap_95
+  - first:
+      213: -6557399937874119247
+    second: Motel_Foreground_TileMap_96
+  - first:
+      213: -4682103091951984371
+    second: Motel_Foreground_TileMap_97
+  - first:
+      213: -8787265250835078134
+    second: Motel_Foreground_TileMap_98
+  - first:
+      213: -8283929925165628472
+    second: Motel_Foreground_TileMap_99
+  - first:
+      213: 877891251371756606
+    second: Motel_Foreground_TileMap_100
+  - first:
+      213: -3357894381383015839
+    second: Motel_Foreground_TileMap_101
+  - first:
+      213: 3610322956496537855
+    second: Motel_Foreground_TileMap_102
+  - first:
+      213: 667836881313843900
+    second: Motel_Foreground_TileMap_103
+  - first:
+      213: 3905283654079919194
+    second: Motel_Foreground_TileMap_104
+  - first:
+      213: 7130431973800990709
+    second: Motel_Foreground_TileMap_105
+  - first:
+      213: 2884927913034551610
+    second: Motel_Foreground_TileMap_106
+  - first:
+      213: 6792290989646353503
+    second: Motel_Foreground_TileMap_107
+  - first:
+      213: -4570703503555519956
+    second: Motel_Foreground_TileMap_108
+  - first:
+      213: 174135162770268260
+    second: Motel_Foreground_TileMap_109
+  - first:
+      213: -8161366418497053510
+    second: Motel_Foreground_TileMap_110
+  - first:
+      213: 5190509646276864910
+    second: Motel_Foreground_TileMap_111
+  - first:
+      213: -1094712370331795741
+    second: Motel_Foreground_TileMap_112
+  - first:
+      213: -1012088062588012636
+    second: Motel_Foreground_TileMap_113
+  - first:
+      213: 3230016283540647102
+    second: Motel_Foreground_TileMap_114
+  - first:
+      213: 2571479575185760534
+    second: Motel_Foreground_TileMap_115
+  - first:
+      213: 6233021532636906622
+    second: Motel_Foreground_TileMap_116
+  - first:
+      213: 7569506219307145164
+    second: Motel_Foreground_TileMap_117
+  - first:
+      213: 5500080231170659829
+    second: Motel_Foreground_TileMap_118
+  - first:
+      213: 4002437134574343044
+    second: Motel_Foreground_TileMap_119
+  - first:
+      213: 2738526625460655961
+    second: Motel_Foreground_TileMap_120
+  - first:
+      213: -7034138414847499597
+    second: Motel_Foreground_TileMap_121
+  - first:
+      213: -2206031328220447211
+    second: Motel_Foreground_TileMap_122
+  - first:
+      213: -517876335107360262
+    second: Motel_Foreground_TileMap_123
+  - first:
+      213: 1036638075376635068
+    second: Motel_Foreground_TileMap_124
+  - first:
+      213: -4080567296067296828
+    second: Motel_Foreground_TileMap_125
+  - first:
+      213: 2455910041568982621
+    second: Motel_Foreground_TileMap_126
+  - first:
+      213: 7376183832793587755
+    second: Motel_Foreground_TileMap_127
+  - first:
+      213: -4503327174733625358
+    second: Motel_Foreground_TileMap_128
+  - first:
+      213: 9163844849623116555
+    second: Motel_Foreground_TileMap_129
+  - first:
+      213: -3545805051060057982
+    second: Motel_Foreground_TileMap_130
+  - first:
+      213: 6833606745918106846
+    second: Motel_Foreground_TileMap_131
+  - first:
+      213: 6750084668680695307
+    second: Motel_Foreground_TileMap_132
+  - first:
+      213: -8236965713111526191
+    second: Motel_Foreground_TileMap_133
+  - first:
+      213: 7810402303126679270
+    second: Motel_Foreground_TileMap_134
+  - first:
+      213: 1096413418373225681
+    second: Motel_Foreground_TileMap_135
+  - first:
+      213: -8070752997535566946
+    second: Motel_Foreground_TileMap_136
+  - first:
+      213: -9168453677206996381
+    second: Motel_Foreground_TileMap_137
+  - first:
+      213: -8958690457235485769
+    second: Motel_Foreground_TileMap_138
+  - first:
+      213: -7925539515851146327
+    second: Motel_Foreground_TileMap_139
+  - first:
+      213: 8859075465057221714
+    second: Motel_Foreground_TileMap_140
+  - first:
+      213: -1838304398452484590
+    second: Motel_Foreground_TileMap_141
+  - first:
+      213: -8779802165087719790
+    second: Motel_Foreground_TileMap_142
+  - first:
+      213: -5289702335667443954
+    second: Motel_Foreground_TileMap_143
+  - first:
+      213: -4090968729009469781
+    second: Motel_Foreground_TileMap_144
+  - first:
+      213: -2994919070954861078
+    second: Motel_Foreground_TileMap_145
+  - first:
+      213: -8827083130884345325
+    second: Motel_Foreground_TileMap_146
+  - first:
+      213: -4978607073153544576
+    second: Motel_Foreground_TileMap_147
+  - first:
+      213: -3870927674547323276
+    second: Motel_Foreground_TileMap_148
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd35da476e38924c0800000000000000
+      internalID: -4311770142407306276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74732b0c33c7b1d90800000000000000
+      internalID: -7125965423665596601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa5bd26d1751610800000000000000
+      internalID: 1591303208049159958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c11855d10d3960800000000000000
+      internalID: 7583219363379005699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1d1aa6afbadfa0800000000000000
+      internalID: -5775092849609729259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b6b010ee612600800000000000000
+      internalID: 441756147091157326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90263d9a4d73baa20800000000000000
+      internalID: 3074612557132292617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22fd383f4a1da60800000000000000
+      internalID: 7697114603949335250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d041e04eed18ea0800000000000000
+      internalID: -5872167368044311155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ed89100a00bc60800000000000000
+      internalID: 7831770747542299473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53801b8098f7dac70800000000000000
+      internalID: 8983977058207074357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049a3af182571b20800000000000000
+      internalID: 3105041186297648138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87fb63ba830aa780800000000000000
+      internalID: -8671114238297901174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df07ecc26e3e8850800000000000000
+      internalID: 6381106316095983569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1190b7eccfbc8f00800000000000000
+      internalID: 1120481294089752863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9afbdf4efebfd30800000000000000
+      internalID: 4466427222256757225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3776070357266a350800000000000000
+      internalID: 6027613406745356147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c5a997ea9f14f90800000000000000
+      internalID: -6971016220433032149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe846afedf10c860800000000000000
+      internalID: 7548068018017046258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83753521b3f9f8510800000000000000
+      internalID: 1553635472525449016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -18}
+        - {x: 18, y: 18}
+        - {x: 18, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b7d831c76ac1500800000000000000
+      internalID: 368352321371732804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a008147dcadc3c40800000000000000
+      internalID: 5493506221436043433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea50d20e12505aa0800000000000000
+      internalID: -6174344800275244305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -18}
+        - {x: -18, y: 18}
+        - {x: 18, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8dcf4fd5d09e200800000000000000
+      internalID: 209713554842769604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b4c4c9b47273aa0800000000000000
+      internalID: -6181428757844440298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a441f2a48f534a210800000000000000
+      internalID: 1343257929376011338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdded8046d898340800000000000000
+      internalID: 4866576333135601088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a87bc045291f40800000000000000
+      internalID: 5699627763635888550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963da6c4cbeab5d0800000000000000
+      internalID: -3045862967583361386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07957a600bf84aa70800000000000000
+      internalID: 8837346354996402544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a264cdc9fc2d480e0800000000000000
+      internalID: -2268456523156142550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1657f2a97a894b0800000000000000
+      internalID: -5433408669759479318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6de35f33bbcc3fa0800000000000000
+      internalID: -5819552647747474067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b68b19efbcf6b30800000000000000
+      internalID: 4282866064879545136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0dfbb1b2e7ab10800000000000000
+      internalID: 1992810613125746050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f14cb6c254ffe0800000000000000
+      internalID: -1156208190811933161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eccac411da03e10800000000000000
+      internalID: 2175428909832392266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d533575a75c2a90800000000000000
+      internalID: -7337393324745859836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335aae29727ae830800000000000000
+      internalID: 4101216275473781567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0d8bc881d56700800000000000000
+      internalID: 533062516374048554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5009460b2c9c20800000000000000
+      internalID: 3214491540030250770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bc3d610d641a1a0800000000000000
+      internalID: -6800076102802617581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e5f36a255f44b0800000000000000
+      internalID: -5454046983168334806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bea8524df53de60800000000000000
+      internalID: 7985831929025588017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d622758cb81d20800000000000000
+      internalID: 3249554412479631532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0abe9f3c0db60a0800000000000000
+      internalID: -6887181665002872604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0b9681f2a015b0800000000000000
+      internalID: -5399636794988098009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ce1f7d13bed7720800000000000000
+      internalID: 2845689138876902529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aad8dfd60ce0a90800000000000000
+      internalID: -7345722363556812228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb12a59cc637f750800000000000000
+      internalID: 6338595252858919920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6cd20a8b4c75590800000000000000
+      internalID: -7685457941844080931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cd9e4614e6da90800000000000000
+      internalID: -7289388162393193151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12393a6a58bf14e10800000000000000
+      internalID: 2180300246068990753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3030f0360b18b760800000000000000
+      internalID: 7473753295026139196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d05e16b35a07e10800000000000000
+      internalID: 2193434692993486173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa9a768a67281f0800000000000000
+      internalID: -1044141697930776778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203e125578380f90800000000000000
+      internalID: -6987272745325285333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1417eb1b1b441c20800000000000000
+      internalID: 3176246217007371291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b277b38ce27e9c70800000000000000
+      internalID: 8979741067171033784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859436ed68a0ecd0800000000000000
+      internalID: -2530837800615111284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b364bfc1d58f8c60800000000000000
+      internalID: 7822618213945205680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23f33de47d475f0800000000000000
+      internalID: -759745703567215894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6970188a61ec60800000000000000
+      internalID: 7845669158480605050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b6291229fd7b40800000000000000
+      internalID: 5439777849779597812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee70072e1c6b440800000000000000
+      internalID: 4951358018626776798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d08f0c87255160800000000000000
+      internalID: 7013555477208421059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cbdee1e892c9250800000000000000
+      internalID: 5952678497857944692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f795b9585f4bb0800000000000000
+      internalID: -4949640323134918464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe41b27a202a4460800000000000000
+      internalID: 7226623918754320124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ae3b8c8f8e6e50800000000000000
+      internalID: 6804533920797729473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1796a0b7123870800000000000000
+      internalID: 8661011080863490009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3dd9c7f5faeb80800000000000000
+      internalID: -8364602913294828938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246b13014dc187c60800000000000000
+      internalID: 7816028850431833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc4bf4bf459b3e50800000000000000
+      internalID: 6790185032762477758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb6ce94685a1630800000000000000
+      internalID: 3898525616626384751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3214ab3c2e645b0800000000000000
+      internalID: -5384366974203517954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8801f18c3ade8d0800000000000000
+      internalID: -2815414112126728006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2ab0d1842dc280800000000000000
+      internalID: -9021514338581991592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7cedc5e98a82d0800000000000000
+      internalID: -3275654158863270331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b80a008eb371f80800000000000000
+      internalID: -8135968334192538724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d21aa078fcaedaf0800000000000000
+      internalID: -369667936355740967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc38cb84cb0ccb0800000000000000
+      internalID: -4845666178464232018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83a3d535d5152210800000000000000
+      internalID: 1307475272296276878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089d5e83c92ddde0800000000000000
+      internalID: -1306842396983715838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891fbaea207285ab0800000000000000
+      internalID: -5019218892230495848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_85
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90953f79c2280a690800000000000000
+      internalID: -7592925843707176695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_86
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884220019544f2500800000000000000
+      internalID: 373592443406394504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_87
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cec0da45757bfa0800000000000000
+      internalID: -5785059175141938035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d07bfee4baca90800000000000000
+      internalID: -7292817708059403967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b8a3d7d093ff1d0800000000000000
+      internalID: -3314868070623048801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe54c3932f0e5230800000000000000
+      internalID: 3629354995184590588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_91
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff44629406a08d240800000000000000
+      internalID: 4816611210133128447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84abf4384bc4fbcd0800000000000000
+      internalID: -2540227326632805816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699297371235f020800000000000000
+      internalID: 2374859453805795691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9d45dbd04979d0800000000000000
+      internalID: -2776116382376550519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad7f57828630200800000000000000
+      internalID: 145074135993145980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_96
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b538d4cf7f6ff4a0800000000000000
+      internalID: -6557399937874119247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a1727b04d50fb0800000000000000
+      internalID: -4682103091951984371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_98
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0467d0bfcc5d0680800000000000000
+      internalID: -8787265250835078134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3464a8f91990d80800000000000000
+      internalID: -8283929925165628472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ccf6d1175ee2c00800000000000000
+      internalID: 877891251371756606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a26cd9dc5661d0800000000000000
+      internalID: -3357894381383015839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff80a62c9917a1230800000000000000
+      internalID: 3610322956496537855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_103
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbacd9eea12a44900800000000000000
+      internalID: 667836881313843900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b294daca523630800000000000000
+      internalID: 3905283654079919194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_105
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7de7df91264f260800000000000000
+      internalID: 7130431973800990709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a319803e6a2590820800000000000000
+      internalID: 2884927913034551610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_107
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5415f00ba0134e50800000000000000
+      internalID: 6792290989646353503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a90f051699190c0800000000000000
+      internalID: -4570703503555519956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_109
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a3d70207aa6200800000000000000
+      internalID: 174135162770268260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5eafab700dbe80800000000000000
+      internalID: -8161366418497053510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2295d505680840800000000000000
+      internalID: 5190509646276864910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb52336eccec0f0800000000000000
+      internalID: -1094712370331795741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_113
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a73704f44754f1f0800000000000000
+      internalID: -1012088062588012636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcea2f42b253dc20800000000000000
+      internalID: 3230016283540647102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_115
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ae12ac0bbfa320800000000000000
+      internalID: 2571479575185760534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e740f2a5f04208650800000000000000
+      internalID: 6233021532636906622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc799ee2dc94c0960800000000000000
+      internalID: 7569506219307145164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_118
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5531f54d5345c40800000000000000
+      internalID: 5500080231170659829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d22a3e538b8730800000000000000
+      internalID: 4002437134574343044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_120
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957188ed473310620800000000000000
+      internalID: 2738526625460655961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e5125168b16e90800000000000000
+      internalID: -7034138414847499597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e790ee13a9261e0800000000000000
+      internalID: -2206031328220447211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93850973220d8f0800000000000000
+      internalID: -517876335107360262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc087356d0e26e00800000000000000
+      internalID: 1036638075376635068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_125
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c125dbf9a9ee57c0800000000000000
+      internalID: -4080567296067296828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_126
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56b80cbb25251220800000000000000
+      internalID: 2455910041568982621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2024af7d187d5660800000000000000
+      internalID: 7376183832793587755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_128
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f783a25bc7f081c0800000000000000
+      internalID: -4503327174733625358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b249ea6548c2f70800000000000000
+      internalID: 9163844849623116555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_130
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28887c0b715cacec0800000000000000
+      internalID: -3545805051060057982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc69212129d5de50800000000000000
+      internalID: 6833606745918106846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_132
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee5802e3e1dad50800000000000000
+      internalID: 6750084668680695307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d45ae2435b60bd80800000000000000
+      internalID: -8236965713111526191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_134
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee22ce638f146c60800000000000000
+      internalID: 7810402303126679270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_135
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc9b19e13e373f00800000000000000
+      internalID: 1096413418373225681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_136
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9339ffc8eceeff80800000000000000
+      internalID: -8070752997535566946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_137
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af37605fb13c080800000000000000
+      internalID: -9168453677206996381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0ccb8e765ca380800000000000000
+      internalID: -8958690457235485769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abfe583dc3d20290800000000000000
+      internalID: -7925539515851146327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_140
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3d15b232c1fa70800000000000000
+      internalID: 8859075465057221714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216933da3e70d76e0800000000000000
+      internalID: -1838304398452484590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_142
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eadbfb270e72680800000000000000
+      internalID: -8779802165087719790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_143
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07ecf270c33796b0800000000000000
+      internalID: -5289702335667443954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c828ad95f937c0800000000000000
+      internalID: -4090968729009469781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_145
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed41b409f8ef66d0800000000000000
+      internalID: -2994919070954861078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312bbcc09a6ef7580800000000000000
+      internalID: -8827083130884345325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_147
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e8f68ae3f68eab0800000000000000
+      internalID: -4978607073153544576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motel_Foreground_TileMap_148
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb06ff9c3b74ac0800000000000000
+      internalID: -3870927674547323276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
